@@ -1,9 +1,13 @@
 body {
       background-color:#cccc;
 }
-p{
+#banner {
+    width:100%;
+}
+.principal {
+    background: #cccccc;
+padding: 30px;
     text-align: : center;
-
 }
 em strong {
     color:#rbg
